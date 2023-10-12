@@ -1,0 +1,718 @@
+{
+	"AllowMultipleInstance": false,
+	"MinimumTranslationPercentage": 95,
+	"Languages": [
+		{
+			"Code": "auto",
+			"Name": "Detect language",
+			"Enabled": true
+		},
+		{
+			"Code": "af",
+			"Name": "Afrikaans",
+			"Enabled": false
+		},
+		{
+			"Code": "sq",
+			"Name": "Albanian",
+			"Enabled": false
+		},
+		{
+			"Code": "am",
+			"Name": "Amharic",
+			"Enabled": false
+		},
+		{
+			"Code": "ar",
+			"Name": "Arabic",
+			"Enabled": false
+		},
+		{
+			"Code": "hy",
+			"Name": "Armenian",
+			"Enabled": false
+		},
+		{
+			"Code": "as",
+			"Name": "Assamese",
+			"Enabled": false
+		},
+		{
+			"Code": "ay",
+			"Name": "Aymara",
+			"Enabled": false
+		},
+		{
+			"Code": "az",
+			"Name": "Azerbaijani",
+			"Enabled": false
+		},
+		{
+			"Code": "bm",
+			"Name": "Bambara",
+			"Enabled": false
+		},
+		{
+			"Code": "eu",
+			"Name": "Basque",
+			"Enabled": false
+		},
+		{
+			"Code": "be",
+			"Name": "Belarusian",
+			"Enabled": false
+		},
+		{
+			"Code": "bn",
+			"Name": "Bengali",
+			"Enabled": false
+		},
+		{
+			"Code": "bho",
+			"Name": "Bhojpuri",
+			"Enabled": false
+		},
+		{
+			"Code": "bs",
+			"Name": "Bosnian",
+			"Enabled": false
+		},
+		{
+			"Code": "bg",
+			"Name": "Bulgarian",
+			"Enabled": false
+		},
+		{
+			"Code": "ca",
+			"Name": "Catalan",
+			"Enabled": false
+		},
+		{
+			"Code": "ceb",
+			"Name": "Cebuano",
+			"Enabled": true
+		},
+		{
+			"Code": "ny",
+			"Name": "Chichewa",
+			"Enabled": false
+		},
+		{
+			"Code": "zh-CN",
+			"Name": "Chinese (Simplified)",
+			"Enabled": false
+		},
+		{
+			"Code": "zh-TW",
+			"Name": "Chinese (Traditional)",
+			"Enabled": false
+		},
+		{
+			"Code": "co",
+			"Name": "Corsican",
+			"Enabled": false
+		},
+		{
+			"Code": "hr",
+			"Name": "Croatian",
+			"Enabled": false
+		},
+		{
+			"Code": "cs",
+			"Name": "Czech",
+			"Enabled": false
+		},
+		{
+			"Code": "da",
+			"Name": "Danish",
+			"Enabled": false
+		},
+		{
+			"Code": "dv",
+			"Name": "Dhivehi",
+			"Enabled": false
+		},
+		{
+			"Code": "doi",
+			"Name": "Dogri",
+			"Enabled": false
+		},
+		{
+			"Code": "nl",
+			"Name": "Dutch",
+			"Enabled": false
+		},
+		{
+			"Code": "en",
+			"Name": "English",
+			"Enabled": true
+		},
+		{
+			"Code": "eo",
+			"Name": "Esperanto",
+			"Enabled": false
+		},
+		{
+			"Code": "et",
+			"Name": "Estonian",
+			"Enabled": false
+		},
+		{
+			"Code": "ee",
+			"Name": "Ewe",
+			"Enabled": false
+		},
+		{
+			"Code": "tl",
+			"Name": "Filipino",
+			"Enabled": true
+		},
+		{
+			"Code": "fi",
+			"Name": "Finnish",
+			"Enabled": false
+		},
+		{
+			"Code": "fr",
+			"Name": "French",
+			"Enabled": false
+		},
+		{
+			"Code": "fy",
+			"Name": "Frisian",
+			"Enabled": false
+		},
+		{
+			"Code": "gl",
+			"Name": "Galician",
+			"Enabled": false
+		},
+		{
+			"Code": "ka",
+			"Name": "Georgian",
+			"Enabled": false
+		},
+		{
+			"Code": "de",
+			"Name": "German",
+			"Enabled": false
+		},
+		{
+			"Code": "el",
+			"Name": "Greek",
+			"Enabled": false
+		},
+		{
+			"Code": "gn",
+			"Name": "Guarani",
+			"Enabled": false
+		},
+		{
+			"Code": "gu",
+			"Name": "Gujarati",
+			"Enabled": false
+		},
+		{
+			"Code": "ht",
+			"Name": "Haitian Creole",
+			"Enabled": false
+		},
+		{
+			"Code": "ha",
+			"Name": "Hausa",
+			"Enabled": false
+		},
+		{
+			"Code": "haw",
+			"Name": "Hawaiian",
+			"Enabled": false
+		},
+		{
+			"Code": "iw",
+			"Name": "Hebrew",
+			"Enabled": false
+		},
+		{
+			"Code": "hi",
+			"Name": "Hindi",
+			"Enabled": false
+		},
+		{
+			"Code": "hmn",
+			"Name": "Hmong",
+			"Enabled": false
+		},
+		{
+			"Code": "hu",
+			"Name": "Hungarian",
+			"Enabled": false
+		},
+		{
+			"Code": "is",
+			"Name": "Icelandic",
+			"Enabled": false
+		},
+		{
+			"Code": "ig",
+			"Name": "Igbo",
+			"Enabled": false
+		},
+		{
+			"Code": "ilo",
+			"Name": "Ilocano",
+			"Enabled": false
+		},
+		{
+			"Code": "id",
+			"Name": "Indonesian",
+			"Enabled": false
+		},
+		{
+			"Code": "ga",
+			"Name": "Irish",
+			"Enabled": false
+		},
+		{
+			"Code": "it",
+			"Name": "Italian",
+			"Enabled": false
+		},
+		{
+			"Code": "ja",
+			"Name": "Japanese",
+			"Enabled": false
+		},
+		{
+			"Code": "jw",
+			"Name": "Javanese",
+			"Enabled": false
+		},
+		{
+			"Code": "kn",
+			"Name": "Kannada",
+			"Enabled": false
+		},
+		{
+			"Code": "kk",
+			"Name": "Kazakh",
+			"Enabled": false
+		},
+		{
+			"Code": "km",
+			"Name": "Khmer",
+			"Enabled": false
+		},
+		{
+			"Code": "rw",
+			"Name": "Kinyarwanda",
+			"Enabled": false
+		},
+		{
+			"Code": "gom",
+			"Name": "Konkani",
+			"Enabled": false
+		},
+		{
+			"Code": "ko",
+			"Name": "Korean",
+			"Enabled": false
+		},
+		{
+			"Code": "kri",
+			"Name": "Krio",
+			"Enabled": false
+		},
+		{
+			"Code": "ku",
+			"Name": "Kurdish (Kurmanji)",
+			"Enabled": false
+		},
+		{
+			"Code": "ckb",
+			"Name": "Kurdish (Sorani)",
+			"Enabled": false
+		},
+		{
+			"Code": "ky",
+			"Name": "Kyrgyz",
+			"Enabled": false
+		},
+		{
+			"Code": "lo",
+			"Name": "Lao",
+			"Enabled": false
+		},
+		{
+			"Code": "la",
+			"Name": "Latin",
+			"Enabled": false
+		},
+		{
+			"Code": "lv",
+			"Name": "Latvian",
+			"Enabled": false
+		},
+		{
+			"Code": "ln",
+			"Name": "Lingala",
+			"Enabled": false
+		},
+		{
+			"Code": "lt",
+			"Name": "Lithuaninan",
+			"Enabled": false
+		},
+		{
+			"Code": "lg",
+			"Name": "Luganda",
+			"Enabled": false
+		},
+		{
+			"Code": "lb",
+			"Name": "Luxembourgish",
+			"Enabled": false
+		},
+		{
+			"Code": "mk",
+			"Name": "Macedonian",
+			"Enabled": false
+		},
+		{
+			"Code": "mai",
+			"Name": "Maithili",
+			"Enabled": false
+		},
+		{
+			"Code": "mg",
+			"Name": "Malagasy",
+			"Enabled": false
+		},
+		{
+			"Code": "ms",
+			"Name": "Malay",
+			"Enabled": false
+		},
+		{
+			"Code": "ml",
+			"Name": "Malayalam",
+			"Enabled": false
+		},
+		{
+			"Code": "mt",
+			"Name": "Maltese",
+			"Enabled": false
+		},
+		{
+			"Code": "mi",
+			"Name": "Maori",
+			"Enabled": false
+		},
+		{
+			"Code": "mr",
+			"Name": "Marathi",
+			"Enabled": false
+		},
+		{
+			"Code": "mni-Mtei",
+			"Name": "Meiteilon (Manipuri)",
+			"Enabled": false
+		},
+		{
+			"Code": "lus",
+			"Name": "Mizo",
+			"Enabled": false
+		},
+		{
+			"Code": "mn",
+			"Name": "Mongolian",
+			"Enabled": false
+		},
+		{
+			"Code": "my",
+			"Name": "Myanmar (Burmese)",
+			"Enabled": false
+		},
+		{
+			"Code": "ne",
+			"Name": "Nepali",
+			"Enabled": false
+		},
+		{
+			"Code": "no",
+			"Name": "Norwegian",
+			"Enabled": false
+		},
+		{
+			"Code": "or",
+			"Name": "Odia (Oriya)",
+			"Enabled": false
+		},
+		{
+			"Code": "om",
+			"Name": "Oromo",
+			"Enabled": false
+		},
+		{
+			"Code": "ps",
+			"Name": "Pashto",
+			"Enabled": false
+		},
+		{
+			"Code": "fa",
+			"Name": "Persian",
+			"Enabled": false
+		},
+		{
+			"Code": "pl",
+			"Name": "Polish",
+			"Enabled": false
+		},
+		{
+			"Code": "pt",
+			"Name": "Portuguese",
+			"Enabled": false
+		},
+		{
+			"Code": "pa",
+			"Name": "Punjabi",
+			"Enabled": false
+		},
+		{
+			"Code": "qu",
+			"Name": "Quechua",
+			"Enabled": false
+		},
+		{
+			"Code": "ro",
+			"Name": "Romanian",
+			"Enabled": false
+		},
+		{
+			"Code": "ru",
+			"Name": "Russian",
+			"Enabled": false
+		},
+		{
+			"Code": "sm",
+			"Name": "Samoan",
+			"Enabled": false
+		},
+		{
+			"Code": "sa",
+			"Name": "Sanskrit",
+			"Enabled": false
+		},
+		{
+			"Code": "gd",
+			"Name": "Scots Gaelic",
+			"Enabled": false
+		},
+		{
+			"Code": "nso",
+			"Name": "Sepedi",
+			"Enabled": false
+		},
+		{
+			"Code": "sr",
+			"Name": "Serbian",
+			"Enabled": false
+		},
+		{
+			"Code": "st",
+			"Name": "Sesotho",
+			"Enabled": false
+		},
+		{
+			"Code": "sn",
+			"Name": "Shona",
+			"Enabled": false
+		},
+		{
+			"Code": "sd",
+			"Name": "Sindhi",
+			"Enabled": false
+		},
+		{
+			"Code": "si",
+			"Name": "Sinhala",
+			"Enabled": false
+		},
+		{
+			"Code": "sk",
+			"Name": "Slovak",
+			"Enabled": false
+		},
+		{
+			"Code": "sl",
+			"Name": "Slovenian",
+			"Enabled": false
+		},
+		{
+			"Code": "so",
+			"Name": "Somali",
+			"Enabled": false
+		},
+		{
+			"Code": "es",
+			"Name": "Spanish",
+			"Enabled": false
+		},
+		{
+			"Code": "su",
+			"Name": "Sundanese",
+			"Enabled": false
+		},
+		{
+			"Code": "sw",
+			"Name": "Swahili",
+			"Enabled": false
+		},
+		{
+			"Code": "sv",
+			"Name": "Swedish",
+			"Enabled": false
+		},
+		{
+			"Code": "tg",
+			"Name": "Tajik",
+			"Enabled": false
+		},
+		{
+			"Code": "ta",
+			"Name": "Tamil",
+			"Enabled": false
+		},
+		{
+			"Code": "tt",
+			"Name": "Tatar",
+			"Enabled": false
+		},
+		{
+			"Code": "te",
+			"Name": "Telugu",
+			"Enabled": false
+		},
+		{
+			"Code": "th",
+			"Name": "Thai",
+			"Enabled": false
+		},
+		{
+			"Code": "ti",
+			"Name": "Tigrinya",
+			"Enabled": false
+		},
+		{
+			"Code": "ts",
+			"Name": "Tsonga",
+			"Enabled": false
+		},
+		{
+			"Code": "tr",
+			"Name": "Turkish",
+			"Enabled": false
+		},
+		{
+			"Code": "tk",
+			"Name": "Turkmen",
+			"Enabled": false
+		},
+		{
+			"Code": "ak",
+			"Name": "Twi",
+			"Enabled": false
+		},
+		{
+			"Code": "uk",
+			"Name": "Ukrainian",
+			"Enabled": false
+		},
+		{
+			"Code": "ur",
+			"Name": "Urdu",
+			"Enabled": false
+		},
+		{
+			"Code": "ug",
+			"Name": "Uyghur",
+			"Enabled": false
+		},
+		{
+			"Code": "uz",
+			"Name": "Uzbek",
+			"Enabled": false
+		},
+		{
+			"Code": "vi",
+			"Name": "Vietnamese",
+			"Enabled": false
+		},
+		{
+			"Code": "cy",
+			"Name": "Welsh",
+			"Enabled": false
+		},
+		{
+			"Code": "xh",
+			"Name": "Xhosa",
+			"Enabled": false
+		},
+		{
+			"Code": "yi",
+			"Name": "Yiddish",
+			"Enabled": false
+		},
+		{
+			"Code": "yo",
+			"Name": "Yoruba",
+			"Enabled": false
+		},
+		{
+			"Code": "zu",
+			"Name": "Zulu",
+			"Enabled": false
+		}
+	],
+	"FileTypes": [
+		{
+			"Code": "*.sdlxliff",
+			"Name": "SDL XLIFF Document",
+			"Enabled": true
+		}
+	],
+	"CodedStrings": {
+		"&amp;": "~~amp;",
+		"&apos;": "~~apos;",
+		"&quot;": "~~quot;",
+		"&copy;": "~~cpy;",
+		"&trade;": "~~trde;",
+		"&nbsp;": "~~nbsp;",
+		"&larr;": "~~larr;",
+		"&uarr;": "~~uarr;",
+		"&darr;": "~~darr;",
+		"&harr;": "~~harr;",
+		"&equiv;": "~~equiv;",
+		"&ne;": "~~ne;",
+		"&lt;": "~~lt;",
+		"&gt;": "~~gt;",
+		"&le;": "~~le;",
+		"#:": "~hsh~",
+		"~:": "~tld~",
+		"’": "~apos~",
+		"%": "@@",
+		"&": "~amp~"
+	},
+	"WhiteSpacedStrings": [
+		"- ",
+		" -",
+		" \"",
+		"\" ",
+		"( ",
+		" )"
+	],
+	"GoogleApi": {
+		"ResourceUrl": "https://translate.google.com/m",
+		"UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82",
+		"ElementClass": "result-container"
+	}
+}
